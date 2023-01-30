@@ -1,0 +1,5 @@
+3.2.3 - Qual modelo melhor explica o fenômeno em estudo? Justifique com fundamentação estatística.):
+	O modelo que melhor explica o fenômeno é o Polinômio de II Grau, pois os pontos ficam mais agrupados, mais próximos, ou seja, o coeficiente de correlação (r^2) é maior, sendo mais ajustada para o caso estudado.
+
+3.2.4 - Pelos critérios de ajustamento e escolha de modelos vistos em aula, os coeficientes de determinação (r^2) de modelos lineares ajustados (forçados e não forçados para a origem) são comparáveis? Justifique com fundamentação estatística.):
+	Os coeficientes de determinação de modelos lineares ajustados não são comparáveis, pois o modelo linear ajustado não forçado possui um somatório de desvios "ε" em sua composição, enquanto o modelo liner forçado assume esse erro como sendo 0 e força o gráfico a passar pela origem.

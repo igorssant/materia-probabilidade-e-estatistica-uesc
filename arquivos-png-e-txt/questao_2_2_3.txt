@@ -1,0 +1,2 @@
+	variância	d.padrão	 c.v	amplitude total
+medida	   381.92	   19.54	0.35		  75.50

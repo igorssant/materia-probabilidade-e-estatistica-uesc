@@ -1,0 +1,10 @@
+TABELA 20
+
+            Estimate Std. Error t value Pr(>|t|)(Intercept)     1.22       0.30    4.15        0x               1.32       0.05   26.52        0
+
+
+<==============================================>
+
+TABELA 21
+
+            Estimate Std. Error t value Pr(>|t|)(Intercept)     0.63       0.26    2.48     0.04x               1.72       0.12   14.41     0.00I(x^2)         -0.04       0.01   -3.47     0.01
